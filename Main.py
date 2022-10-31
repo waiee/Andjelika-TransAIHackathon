@@ -18,7 +18,7 @@ def app():
     if api_key:
 
         # Setting up the Title
-        st.title("Write your dream destination :earth_asia:")
+        st.title("Write your poem :earth_asia:")
         
         # st.write("---")
 
