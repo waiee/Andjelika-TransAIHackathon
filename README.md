@@ -1,4 +1,4 @@
-# GPT-3 Poem Generator
+# AndJelika powered by GPT-3
 
 - create virtual environment https://docs.python.org/3/library/venv.html
 - Activate virtual environment: `./venv/Scripts/activate`
